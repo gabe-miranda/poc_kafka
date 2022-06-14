@@ -1,0 +1,17 @@
+{
+  "name": "consumer",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "avsc": "^5.7.4",
+    "kafkajs": "^2.0.2",
+    "pdf2json": "^2.0.1",
+    "pdfreader": "^2.0.0"
+  }
+}
